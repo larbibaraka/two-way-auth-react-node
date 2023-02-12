@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "server that generate two way factor authentication",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/larbibaraka/two-way-auth-react-node/issues"
   },
-  "homepage": "https://github.com/larbibaraka/two-way-auth-react-node#readme"
+  "homepage": "https://github.com/larbibaraka/two-way-auth-react-node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
 }
