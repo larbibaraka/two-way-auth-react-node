@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server that generate two way factor authentication",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/larbibaraka/two-way-auth-react-node.git"
+  },
+  "keywords": [
+    "react",
+    "authentication",
+    "node",
+    "ts",
+    "2way"
+  ],
+  "author": "Baraka Larbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larbibaraka/two-way-auth-react-node/issues"
+  },
+  "homepage": "https://github.com/larbibaraka/two-way-auth-react-node#readme"
+}
